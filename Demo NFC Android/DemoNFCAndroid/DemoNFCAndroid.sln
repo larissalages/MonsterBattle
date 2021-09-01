@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{32965CFF-9CB4-2120-429B-9DE76A2FBD2C}") = "DemoNFCAndroid", "Assembly-CSharp-firstpass.csproj", "{62C99F50-3983-F7F9-6F53-A726CAEC0B11}"
+EndProject
+Project("{32965CFF-9CB4-2120-429B-9DE76A2FBD2C}") = "DemoNFCAndroid", "Assembly-CSharp.csproj", "{2E80D079-59AF-C423-EFE3-31A91D314F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C99F50-3983-F7F9-6F53-A726CAEC0B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C99F50-3983-F7F9-6F53-A726CAEC0B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C99F50-3983-F7F9-6F53-A726CAEC0B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C99F50-3983-F7F9-6F53-A726CAEC0B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E80D079-59AF-C423-EFE3-31A91D314F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E80D079-59AF-C423-EFE3-31A91D314F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E80D079-59AF-C423-EFE3-31A91D314F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E80D079-59AF-C423-EFE3-31A91D314F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

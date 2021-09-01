@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459946206 source:c:\users\anderson urbano\downloads\monsterbattle\main.cpp
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<string>
+

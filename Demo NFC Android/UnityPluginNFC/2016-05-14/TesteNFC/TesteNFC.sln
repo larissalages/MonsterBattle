@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2B404F6D-3539-C1A4-A4CC-2D35F10CBE03}") = "TesteNFC", "Assembly-CSharp-firstpass.csproj", "{2B62FD1A-DB38-A3A5-CFE8-43A7EF178C03}"
+EndProject
+Project("{2B404F6D-3539-C1A4-A4CC-2D35F10CBE03}") = "TesteNFC", "Assembly-CSharp.csproj", "{DA53EB4A-9ADC-D761-C4C9-8F2276BB5E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B62FD1A-DB38-A3A5-CFE8-43A7EF178C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B62FD1A-DB38-A3A5-CFE8-43A7EF178C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B62FD1A-DB38-A3A5-CFE8-43A7EF178C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B62FD1A-DB38-A3A5-CFE8-43A7EF178C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA53EB4A-9ADC-D761-C4C9-8F2276BB5E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA53EB4A-9ADC-D761-C4C9-8F2276BB5E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA53EB4A-9ADC-D761-C4C9-8F2276BB5E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA53EB4A-9ADC-D761-C4C9-8F2276BB5E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
